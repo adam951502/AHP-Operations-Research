@@ -4,6 +4,8 @@ This project is an implementation of the Analytical Hierarchy Process (AHP), a f
 
 The project uses the AHP method to analyze operations research data from a provided Excel file. The data represents various factors to consider, including Levelized Cost of Electricity (LCOE), ability to respond to demand, efficiency, capacity factor, land use, environmental external costs, human health external costs, job creation, social acceptability, and external supply risk.
 
+In addition to AHP, the project also makes use of other multi-criteria decision methods such as WSM (Weighted Sum Model) and TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to assess the sustainability of electricity generation technologies. These methods help select the most suitable technology based on specific criteria with different weights, resulting in scores and rankings.
+
 ## **Prerequisites**
 
 - Python
